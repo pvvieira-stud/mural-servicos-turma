@@ -2,8 +2,8 @@
 Projeto didatico para praticar Git, GitHub, branches, commits,
 pull requests, revisao de codigo, build automatico e deploy.
 ## Papeis
-- Code owner: responsavel pelo repositorio, revisao e merge.
-- Devs: responsaveis por criar branches, implementar mudancas e abrir PRs.
+- Code owner: Pedro Vecchio Vieira.
+- Devs: Pedro Vecchio vieira, Lucas Motter, Kaique Simoes, Ariel Oliveira, Gustavo doberstein.
 ## Como executar
 Abra o arquivo index.html no navegador.
 ## Fluxo esperado
@@ -14,3 +14,5 @@ Abra o arquivo index.html no navegador.
 5. Aguardar revisao do code owner.
 6. Fazer ajustes se necessario.
 7. Fazer merge somente apos aprovacao.
+
+zzz
